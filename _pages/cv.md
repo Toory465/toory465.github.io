@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Engineering, 2007
-* M.S. in Software Engineering, 2009
 * Ph.D in Computer Science 2018, Concordia University, Montreal
 * M.S. in Computer Science, Artificial Intelligence, University of Montreal, Montreal
 
